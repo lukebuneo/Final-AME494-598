@@ -1,5 +1,8 @@
 # Final-AME494-598
 
+![IMG-2111](https://user-images.githubusercontent.com/70336771/206376261-b55ed1a0-1ee7-4a09-bb0c-c7a184f0f23c.jpg)
+
+
 Final project for AME 494/598
 
 Repository includes code, 3D models of enclosure, and demo photos of my end result. 
